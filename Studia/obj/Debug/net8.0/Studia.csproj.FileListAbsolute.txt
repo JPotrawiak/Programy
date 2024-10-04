@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\bin\Debug\net8.0\Studia.exe
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\bin\Debug\net8.0\Studia.deps.json
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\bin\Debug\net8.0\Studia.runtimeconfig.json
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\bin\Debug\net8.0\Studia.dll
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\bin\Debug\net8.0\Studia.pdb
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.AssemblyInfo.cs
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.sourcelink.json
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.dll
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\refint\Studia.dll
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.pdb
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\Studia.genruntimeconfig.cache
+C:\Users\admin\Documents\Studia\Programowanie obiektowe\04.10.2024\Programy\Programy\Studia\obj\Debug\net8.0\ref\Studia.dll
