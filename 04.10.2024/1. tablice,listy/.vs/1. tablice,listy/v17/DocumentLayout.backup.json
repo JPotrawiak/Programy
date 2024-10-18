@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Programowanie obiektowe\\1. tablicy,listy\\1. tablice,listy\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Programowanie obiektowe\\Programy\\04.10.2024\\1. tablice,listy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15E4085E-3E25-4595-BB41-54C7C8CE0AB9}|1. tablice,listy.csproj|c:\\users\\admin\\desktop\\programowanie obiektowe\\1. tablicy,listy\\1. tablice,listy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15E4085E-3E25-4595-BB41-54C7C8CE0AB9}|1. tablice,listy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Documents\\Programowanie obiektowe\\Programy\\04.10.2024\\1. tablice,listy\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Programowanie obiektowe\\1. tablicy,listy\\1. tablice,listy\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Programowanie obiektowe\\Programy\\04.10.2024\\1. tablice,listy\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\Programowanie obiektowe\\1. tablicy,listy\\1. tablice,listy\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Programowanie obiektowe\\Programy\\04.10.2024\\1. tablice,listy\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA+wA4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T10:25:09.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T10:25:09.985Z"
             }
           ]
         }
