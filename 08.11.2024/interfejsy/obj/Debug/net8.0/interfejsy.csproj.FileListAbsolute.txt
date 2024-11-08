@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\bin\Debug\net8.0\interfejsy.exe
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\bin\Debug\net8.0\interfejsy.deps.json
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\bin\Debug\net8.0\interfejsy.runtimeconfig.json
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\bin\Debug\net8.0\interfejsy.dll
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\bin\Debug\net8.0\interfejsy.pdb
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.AssemblyInfo.cs
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.sourcelink.json
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.dll
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\refint\interfejsy.dll
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.pdb
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\interfejsy.genruntimeconfig.cache
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\interfejsy\obj\Debug\net8.0\ref\interfejsy.dll

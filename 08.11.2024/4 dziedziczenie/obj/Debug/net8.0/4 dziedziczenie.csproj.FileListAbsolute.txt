@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\bin\Debug\net8.0\4 dziedziczenie.exe
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\bin\Debug\net8.0\4 dziedziczenie.deps.json
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\bin\Debug\net8.0\4 dziedziczenie.runtimeconfig.json
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\bin\Debug\net8.0\4 dziedziczenie.dll
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\bin\Debug\net8.0\4 dziedziczenie.pdb
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.AssemblyInfo.cs
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.sourcelink.json
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.dll
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\refint\4 dziedziczenie.dll
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.pdb
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\4 dziedziczenie.genruntimeconfig.cache
+C:\Users\admin\Documents\Studia semestr 3\Studia\Programowanie obiektowe\08.11.2024 lekcja nr 4\4 dziedziczenie\obj\Debug\net8.0\ref\4 dziedziczenie.dll
